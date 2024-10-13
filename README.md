@@ -1,7 +1,3 @@
-Here’s the updated README without the reference to 2021:
-
----
-
 # Java Web Developer Nanodegree - Project Overview
 
 This repository contains the projects I completed as part of the **Java Web Developer Nanodegree** from Udacity. The program focused on developing web applications and services using Java, Spring Boot, and other industry-standard technologies, with hands-on projects covering different aspects of backend development.
