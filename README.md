@@ -78,5 +78,3 @@ A **secured REST API** web service designed for an **eCommerce platform**, allow
 ## Conclusion
 
 The **Java Web Developer Nanodegree** provided practical experience in building web applications and services using **Java** and **Spring Boot**. These projects covered key aspects of backend development, including **REST API design**, **microservices**, **security**, and **containerization**, equipping me with the skills needed for modern Java web development.
-
----
